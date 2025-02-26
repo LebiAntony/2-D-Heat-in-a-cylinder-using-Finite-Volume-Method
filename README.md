@@ -31,7 +31,7 @@ List of Files:
 	- Stability _final.py -> Run the code block - This code block allows to see the stability region and gives the CFL values of stable margin
 
 3. Exe file
-	- an standalone application is created to execute this problem. It can be installed in windows and can be used.
+	- an standalone application is created to execute this problem. It can be installed in windows and can be used using interactive GUI interface.
 
 
 	
